@@ -1,7 +1,11 @@
 ## Hi there, I'm Mohamed Marzban – aka **Shady** 👋
 
 
-
+🎓 Computer Engineering student at the German University in Cairo (GUC)  
+💼 Currently a **Back-End Engineering Intern** at Flend  
+🧠 Passionate about **Back-End Development** and **Artificial Intelligence (AI)**  
+💻 I love building scalable APIs and intelligent systems that learn from data  
+🚀 Always exploring new technologies and turning ideas into working products
 
 ## 🛠️ Tech Stack
 
