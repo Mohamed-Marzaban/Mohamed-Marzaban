@@ -1,4 +1,4 @@
-## Hi there, i'm Mohamed Marzban 👋
+## Hi there, i'm Mohamed Marzban - aka Shady 👋
 
 ## 🛠️ Tech Stack
 
@@ -25,5 +25,52 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+## 🚀 Projects
+
+Here are a few things I've built, broken, and rebuilt:
+
+### 🧠 Micro-Expression Recognition (Bachelor Thesis)
+> Built a CNN–BiLSTM deep learning model to recognize subtle facial expressions.  
+> 📈 Achieved **99% (A+)** – outperforming several state-of-the-art methods.  
+**Tech:** Python, TensorFlow, Keras, SAMM Dataset, Data Augmentation
+
+---
+
+### 🎮 The Last of Us – JavaFX Game
+> Developed a fully functional game using Java and JavaFX, leveraging Object-Oriented Programming (OOP) principles and data  
+structures for enhanced functionality and performance.  
+**Tech:** Java, JavaFX, OOP, Data Structures
+
+---
+
+### 🧩 Java-Based Database Engine
+> Built a mini relational database engine from scratch with indexing, storage, and retrieval features.  
+**Tech:** Java, File I/O, Indexing, Data Structures
+
+---
+
+### 🌍 Full-Stack Travel Website (MERN Stack)
+> Built a fully functional travel agency platform. Focused on API design, database structure, and backend logic.  
+**Tech:** MongoDB, Express.js, React, Node.js
+
+---
+
+### 🐾 Smart Pet Feeding System
+> Designed a hardware system with FPGA + Arduino to automate feeding using timers and sensors.  
+**Tech:** VHDL, C, Arduino Uno, Quartus
+
+---
+
+### 🏠 Smart Home Embedded System
+> Controlled home devices using RP2040 microcontroller, built in C with the Pico SDK.  
+**Tech:** C, RP2040, Pico SDK
+
+---
+
+### 🧠 Tomasulo Architecture Simulator
+> Simulated dynamic instruction scheduling and out-of-order execution in Java.  
+**Tech:** Java, Computer Architecture
 
 ---
