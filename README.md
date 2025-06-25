@@ -1,10 +1,11 @@
-## Hi there, i'm Mohamed Marzban - aka Shady 👋
+## 👋 Hi there, I'm Mohamed Marzban — aka ***Shady*** 😎
+
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescrip&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -74,3 +75,12 @@ structures for enhanced functionality and performance.
 **Tech:** Java, Computer Architecture
 
 ---
+## 🤝 Let's Connect
+
+I’m always open to collaborating on cool projects, discussing new ideas, or just talking tech ☕.
+
+- 📫 **Email:** mohamedshadyy119@gmail.com  
+- 🧑‍💼 **LinkedIn:** [linkedin.com/in/marzban19](https://www.linkedin.com/in/marzban19)  
+
+---
+
