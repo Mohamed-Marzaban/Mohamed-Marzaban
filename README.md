@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm Mohamed Marzban — aka ***Shady*** 😎
+## Hi there, I'm Mohamed Marzban – aka <span style="color:#1E90FF;"><strong>Shady</strong></span> 👋
+
 
 
 ## 🛠️ Tech Stack
