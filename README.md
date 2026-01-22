@@ -66,6 +66,7 @@ structures for enhanced functionality and performance.
 ### 🌍 Full-Stack Travel Website (MERN Stack)
 > Built a fully functional travel agency platform. Focused on API design, database structure, and backend logic.  
 **Tech:** MongoDB, Express.js, React, Node.js
+> 🔗 **Repository:** https://github.com/Advanced-computer-lab-2024/Roamify.git
 
 ---
 
@@ -84,14 +85,19 @@ structures for enhanced functionality and performance.
 ### 🧠 Tomasulo Architecture Simulator
 > Simulated dynamic instruction scheduling and out-of-order execution in Java.  
 **Tech:** Java, Computer Architecture
+> 🔗 **Repository:** https://github.com/ramezhany1919/Tomasulo-Architecture-Simulator.git
 
 ---
 
 ### 🧠 Neural Network From Scratch (Supervised Learning)
+
 > Implemented a complete Neural Network **from first principles** without high-level ML frameworks.  
-> Covered the full ML pipeline: data preprocessing, forward & backward propagation, training, validation, and testing.  
-**Highlights:** custom loss & accuracy functions, mini-batch training, backpropagation, performance visualization  
-**Tech:** Python, NumPy, Pandas, Matplotlib (no TensorFlow / Keras)
+> Covered the full ML pipeline: data preprocessing, forward & backward propagation, training, validation, and testing.
+>
+> **Highlights:** custom loss & accuracy functions, mini-batch training, backpropagation, performance visualization  
+> **Tech:** Python · NumPy · Pandas · Matplotlib (no TensorFlow / Keras)  
+> 🔗 **Repository:** https://github.com/ramezhany1919/CSEN1121_Neural_Networks_Project.git
+
 
 ---
 ### 🌸 Genetic Algorithm – Flower Evolution Simulation
@@ -99,6 +105,7 @@ structures for enhanced functionality and performance.
 > Modeled DNA with 11 genes and applied **selection, crossover (65%)**, and **mutation (5%)**, with fitness driven by real-time user interaction.  
 **Highlights:** custom DNA encoding, probabilistic crossover & mutation, interactive fitness evaluation  
 **Tech:** Python, NumPy, Matplotlib (no GA libraries)
+> 🔗 **Repository:** https://github.com/MohamedElquesni/Flower-Evolution-Through-Genetic-Algorithims.git
 
 ---
 ### 👁️ Eye Detection Using Integral Images
@@ -128,7 +135,8 @@ structures for enhanced functionality and performance.
 > **Milestone 3 — Graph-RAG Assistant:**  
 > Built a **Graph-RAG travel assistant** combining Cypher queries and embeddings to ground LLM responses in graph data.
 >
-> **Tech:** Python · Random Forest · SHAP · LIME · Neo4j · Cypher · Embeddings · LLMs · Streamlit
+> **Tech:** Python · Random Forest · SHAP · LIME · Neo4j · Cypher · Embeddings · LLMs · Streamlit  
+> 🔗 **Repository:** https://github.com/ramezhany1919/CSEN903--International-Hotel-Booking-Analytics.git
 
 
 ## 🎓 Elective Courses
