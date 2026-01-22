@@ -118,17 +118,18 @@ structures for enhanced functionality and performance.
 ### 🌍 International Hotel Booking Analytics
 
 > One project. Three milestones. From classical ML → Knowledge Graphs → Graph-RAG.
+>
+> **Milestone 1 — Machine Learning:**  
+> Predicted hotel review **country groups** using a **Random Forest** model with feature engineering and XAI (SHAP, LIME).
+>
+> **Milestone 2 — Knowledge Graph:**  
+> Modeled hotels, users, reviews, and visa rules as a **Neo4j Knowledge Graph** for advanced semantic queries.
+>
+> **Milestone 3 — Graph-RAG Assistant:**  
+> Built a **Graph-RAG travel assistant** combining Cypher queries and embeddings to ground LLM responses in graph data.
+>
+> **Tech:** Python · Random Forest · SHAP · LIME · Neo4j · Cypher · Embeddings · LLMs · Streamlit
 
-- **Milestone 1 — Machine Learning:**  
-  Predicted hotel review **country groups** using a **Random Forest** model with feature engineering and XAI (SHAP, LIME).
-
-- **Milestone 2 — Knowledge Graph:**  
-  Modeled hotels, users, reviews, and visa rules as a **Neo4j Knowledge Graph** for advanced semantic queries.
-
-- **Milestone 3 — Graph-RAG Assistant:**  
-  Built a **Graph-RAG travel assistant** combining Cypher queries and embeddings to ground LLM responses in graph data.
-
-**Tech:** Python · Random Forest · SHAP · LIME · Neo4j · Cypher · Embeddings · LLMs · Streamlit
 
 ## 🎓 Elective Courses
 
