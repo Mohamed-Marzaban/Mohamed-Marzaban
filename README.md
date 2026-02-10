@@ -122,6 +122,7 @@ structures for enhanced functionality and performance.
 > Classified image regions into **corners, edges, and homogeneous areas** using histogram analysis and dual thresholds.  
 **Highlights:** SUSAN scoring, histogram clustering, convex hull threshold detection, region segmentation  
 **Tech:** Python, NumPy, Matplotlib (no predefined CV functions)
+> 🔗 **Repository:** https://github.com/Mohamed-Marzaban/SUSAN-ConvexHull-Segmentation.git
 
 ---
 ### 🌍 International Hotel Booking Analytics
