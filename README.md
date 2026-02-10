@@ -79,6 +79,7 @@ structures for enhanced functionality and performance.
 ### 🏠 Smart Home Embedded System
 > Controlled home devices using RP2040 microcontroller, built in C with the Pico SDK.  
 **Tech:** C, RP2040, Pico SDK
+> 🔗 **Repository:** https://github.com/ramezhany1919/CSEN701-Team48-Embedded-IoT-Smart-Home.git
 
 ---
 
