@@ -115,6 +115,7 @@ structures for enhanced functionality and performance.
 > Built local-sum computation with **O(1)** rectangular queries and detected eye locations via maximum kernel response.  
 **Highlights:** integral image computation, loop-free local sums, kernel-based detection, region extraction  
 **Tech:** Python, NumPy, Image Processing (from scratch)
+> 🔗 **Repository:** https://github.com/Mohamed-Marzaban/IntegralEye-Detector.git
 
 ---
 ### 📐 SUSAN Corner Detection with Automatic Thresholding
