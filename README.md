@@ -47,6 +47,7 @@
 > Built a CNN–BiLSTM deep learning model to recognize subtle facial expressions.  
 > 📈 Achieved **99% (A+)** – outperforming several state-of-the-art methods.  
 **Tech:** Python, TensorFlow, Keras, SAMM Dataset, Data Augmentation
+> 🔗 **Repository:** https://github.com/Mohamed-Marzaban/micro-expression-recognition-dl.git
 
 ---
 
