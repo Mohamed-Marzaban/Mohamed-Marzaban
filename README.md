@@ -23,11 +23,16 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![EF%20Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -142,6 +147,22 @@ structures for enhanced functionality and performance.
 > **Tech:** Python · Random Forest · SHAP · LIME · Neo4j · Cypher · Embeddings · LLMs · Streamlit  
 > 🔗 **Repository:** https://github.com/ramezhany1919/CSEN903--International-Hotel-Booking-Analytics.git
 
+---
+### 🏥 Medica – Intelligent Hospital Workflow Assistant
+> Built an AI-powered patient intake system that automates **triage, doctor booking, medical report generation, and email confirmation** through a **LangChain ReAct agent** backed by Claude.  
+> Implemented a full 8-step agent workflow with priority assignment (P0–P3), atomic slot reservation (no double-booking), and 7 custom `@tool` functions over a PostgreSQL backend.  
+**Highlights:** ReAct agent orchestration, FastAPI + Streamlit, atomic booking, SMTP confirmations, agent reasoning trace  
+**Tech:** Python, LangChain, Claude, FastAPI, Streamlit, PostgreSQL, SQLAlchemy
+> 🔗 **Repository:** https://github.com/ramezhany1919/Intelligent-Hospital-Workflow-Assistant.git
+
+---
+
+### 🎟️ EventTicketing Platform (Microservices)
+> Built a full-stack **microservices** event ticketing system — buy tickets, manage events, track sales, and never miss a show.  
+> Designed independent services (user, event, booking, ticket, sales) with **polyglot persistence**, an API Gateway with JWT validation, and inter-service communication via OpenFeign.  
+**Highlights:** Spring Cloud Gateway, JWT auth + RBAC, RabbitMQ messaging, per-service databases (PostgreSQL, MongoDB, Redis, Elasticsearch, Neo4j, Cassandra), Prometheus + Grafana + Loki observability  
+**Tech:** Java, Spring Boot, Spring Cloud, OpenFeign, RabbitMQ, Docker/Kubernetes
+> 🔗 **Repository:** https://github.com/Mohamed-Marzaban/16-galacticos-EventTicketing.git
 
 ## 🎓 Elective Courses
 
@@ -150,6 +171,12 @@ structures for enhanced functionality and performance.
 
 - 🧠 **Neural Networks**  
   Perceptrons, backpropagation, activation functions, ANNs, and training models from scratch.
+
+- ☁️ **Cloud Computing**  
+  Cloud architecture, virtualization, containerization, and deploying scalable services on **Google Cloud Platform (GCP)**.
+
+- 🧠 **Deep Learning**  
+  CNNs, RNNs, sequence models, advanced architectures, and modern deep learning training techniques.
 
 
 ## 🤝 Let's Connect
